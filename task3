@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ATM {
     private static double balance = 0.0;
-    private static final int PIN = 1234; // Example PIN
+    private static final int PIN = 2003; // Example PIN
     private static int attempts = 3; // Number of allowed attempts
 
     public static void main(String[] args) {
